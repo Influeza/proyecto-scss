@@ -1,0 +1,40 @@
+footer {
+  padding: 50px;
+  background-color: #0d6efd;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
+  footer h3 {
+    padding: 30px; }
+
+body {
+  background-color: #f8f9fa;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%230d6efd' fill-opacity='0.36'%3E%3Cpath d='M0 38.59l2.83-2.83 1.41 1.41L1.41 40H0v-1.41zM0 1.4l2.83 2.83 1.41-1.41L1.41 0H0v1.41zM38.59 40l-2.83-2.83 1.41-1.41L40 38.59V40h-1.41zM40 1.41l-2.83 2.83-1.41-1.41L38.59 0H40v1.41zM20 18.6l2.83-2.83 1.41 1.41L21.41 20l2.83 2.83-1.41 1.41L20 21.41l-2.83 2.83-1.41-1.41L18.59 20l-2.83-2.83 1.41-1.41L20 18.59z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E"); }
+
+header h1 {
+  padding: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+main {
+  padding-left: 40px;
+  background-color: #f8f9fa;
+  border: solid 1px #0d6efd;
+  border-radius: 15px; }
+  main h2 {
+    padding: padding 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center; }
+  main p {
+    padding: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center; }
+  main h4 {
+    text-decoration: underline;
+    padding: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center; }
